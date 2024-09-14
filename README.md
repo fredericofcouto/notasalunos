@@ -47,11 +47,7 @@ Antes de iniciar, certifique-se de ter o Node.js instalado em sua máquina.
 - `src/App.jsx`: Componente principal da aplicação
 - `src/main.jsx`: Ponto de entrada da aplicação React
 
-## Contribuição
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-[Insira aqui a licença do seu projeto, se aplicável]
 
 ## Contato
 [Seu Nome] - [Seu Email]
