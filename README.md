@@ -48,8 +48,3 @@ Antes de iniciar, certifique-se de ter o Node.js instalado em sua máquina.
 - `src/main.jsx`: Ponto de entrada da aplicação React
 
 
-
-## Contato
-[Seu Nome] - [Seu Email]
-
-Link do Projeto: [URL_DO_SEU_REPOSITÓRIO]
